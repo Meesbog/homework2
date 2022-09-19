@@ -25,7 +25,8 @@
             "field": "Country",
             "type": "nominal",
             "title": "Countries",
-            "scale": {"scheme": "set1"}
+            "scale": {"scheme": "set1"},
+             "legend": null
           },
           "tooltip": [
             {"field": "Country", "type": "nominal"}
